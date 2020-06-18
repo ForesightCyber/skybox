@@ -1,0 +1,10 @@
+zeep
+requests
+configargparse
+urllib3
+pprint
+requests_cache
+arrow
+bravado
+elasticsearch
+mysql-connector

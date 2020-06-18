@@ -1,0 +1,17 @@
+url=https://<host>:8443/
+user=<user>
+password=<pass>
+ssl-no-verify=True
+
+esurl=https://<host>:9201/
+esuser=<user>
+espass=<pass>
+;date=*
+escrt=elk.crt
+#  openssl s_client -showcerts -connect ip:9201 < /dev/null | openssl x509 >elk.crt
+
+mysqluser=skyboxview
+mysqlpass=skyboxview
+mysqlhost=127.0.0.1
+mysqlport=3306
+
