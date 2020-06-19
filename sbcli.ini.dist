@@ -10,8 +10,8 @@ espass=<pass>
 escrt=elk.crt
 #  openssl s_client -showcerts -connect ip:9201 < /dev/null | openssl x509 >elk.crt
 
-mysqluser=skyboxview
-mysqlpass=skyboxview
+mysqluser=<user>
+mysqlpass=<pass>
 mysqlhost=127.0.0.1
 mysqlport=3306
 
